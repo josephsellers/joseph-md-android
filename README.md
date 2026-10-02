@@ -1,7 +1,7 @@
 # joseph.md for Android
 
-A WebView shell for [joseph.md](https://joseph.md). This app only opens that site.
+Personal client for [joseph.md](https://joseph.md). The app opens that site and nothing else. The site is not on the public internet, so the app will not load for anyone else.
 
-Install it with Obtainium from this repository’s releases. There is one asset, `app-release.apk`.
+The release APK is `app-release.apk`, for Obtainium.
 
-The signing key is not in git. It lives on the machine that cuts releases, and in this repository’s Actions secrets.
+MIT licensed, the same as the notes app. The signing key is not in this repository.
